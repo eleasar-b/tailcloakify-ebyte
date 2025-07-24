@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: colors.blue,
+        primary: colors.green,
         secondary: colors.gray,
 
         provider: {
